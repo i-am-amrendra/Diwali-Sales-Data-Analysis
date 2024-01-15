@@ -1,4 +1,4 @@
-# Diwali-Sales-Data-Analysis
+# Diwali-Sales-Data-Analysis 🚀
 ## Learnings from the Project:
 
 ### 1). Data cleaning and manipulation procedures.
